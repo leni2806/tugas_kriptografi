@@ -1,3 +1,11 @@
+# TUGAS KRIPTOGRAFI
+
+**Nama**: LENI  
+**NIM**: 312410442  
+**Kelas**: I241E  
+**Program Studi**: Teknik Informatika  
+**Mata Kuliah**: Kriptografi
+
 # Cipher Klasik
 
 Tiga aplikasi cipher klasik (Python + tkinter) untuk tugas Kriptografi
