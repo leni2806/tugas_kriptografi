@@ -20,7 +20,7 @@ Tiga aplikasi cipher klasik (Python + tkinter) untuk tugas Kriptografi
 python caesar_cipher.py
 python vigenere_cipher.py
 python railfence_cipher.py
-```
+
 
 ## Cara Menggunakan
 1. Ketik teks di kolom **Teks input**.
@@ -29,7 +29,7 @@ python railfence_cipher.py
 4. Hasil muncul di kolom **Hasil**, bisa disalin dengan **Salin Hasil**.
 5. Khusus Caesar: klik **Brute Force** untuk mencoba semua kunci 0-25.
 
-```
+
 ## Contoh
 - Caesar, k = 3: `awasi asterix dan temannya obelix` -> `dzdvl dvwhula gdq whpdqqbd rehola`
 - Vigenere, kunci `KEY`: `she sells sea shells by the seashore` -> `clc cijvw qoe qrijvw zi xfo wckwfyvc`
